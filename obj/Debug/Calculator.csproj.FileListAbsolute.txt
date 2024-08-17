@@ -8,3 +8,5 @@ C:\Users\admin\source\repos\Calculator\obj\Debug\Calculator.csproj.GenerateResou
 C:\Users\admin\source\repos\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 C:\Users\admin\source\repos\Calculator\obj\Debug\Calculator.exe
 C:\Users\admin\source\repos\Calculator\obj\Debug\Calculator.pdb
+C:\Users\admin\source\repos\Calculator\bin\Debug\Flee.dll
+C:\Users\admin\source\repos\Calculator\obj\Debug\Calculator.csproj.Up2Date
